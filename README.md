@@ -166,7 +166,6 @@ A well-defined business model brings several benefits to your pitch:
 A call to action prompts the audience to take a specific next step. It’s crucial for closing your pitch and guiding stakeholders on what to do next.
 
   -*Examples:*
-
     - **For Investors:** "Join us in revolutionizing small business financial management by investing today and securing a 20% equity stake."
     - **For Customers:** "Sign up for our early access program and get a 30-day free trial."
     - **For Technical Team:** "Let’s schedule a follow-up meeting to dive deeper into the technical architecture and development plan."
